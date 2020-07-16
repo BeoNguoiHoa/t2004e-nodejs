@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name":"hanoi",
+    "label":"Hà Nội",
+    "description":"Hà Nội, thủ đô của Việt Nam, nổi tiếng với kiến trúc trăm tuổi và nền văn hóa phong phú với sự ảnh hưởng của khu vực Đông Nam Á, Trung Quốc và Pháp. Trung tâm thành phố là Khu phố cổ nhộn nhịp, nơi các con phố hẹp được mang tên \"hàng\". Có rất nhiều ngôi đền nhỏ, bao gồm Bạch Mã, tôn vinh một con ngựa huyền thoại, cùng với chợ Đồng Xuân, bán hàng gia dụng và thức ăn đường phố.",
+    "area": "3.359 km"
+  },
+  {
+    "id": 2,
+    "name":"haiphong",
+    "label":"Hải Phòng",
+    "description":"Hải Phòng là thành phố cảng quan trọng, trung tâm công nghiệp, cảng biển, đồng thời cũng là trung tâm kinh tế, văn hóa, y tế, giáo dục, khoa học, thương mại và công nghệ của Vùng duyên hải Bắc Bộ.",
+    "area": "3.359 km"
+  },
+  {
+    "id": 3,
+    "name":"cairo",
+    "label":"Cairo, Ai Cập",
+    "description":"Cairo là thủ đô của Ai Cập. Dân số vùng đô thị Cairo là 18 triệu người. Cairo là vùng đô thị lớn thứ 17 về mặt dân số của thế giới, thứ 10 năm 2004 về tiêu chí này. Cairo là vùng đô thị đông dân nhất châu Phi.",
+    "area": "3.359 km"
+  },
+  {
+    "id": 4,
+    "name":"london",
+    "label":"London, Anh",
+    "description":"London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+    "area": "3.359 km"
+  },
+  {
+    "id": 5,
+    "name":"new york",
+    "label":"New York, Mỹ",
+    "description":"New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.",
+    "area": "3.359 km"
+  },
+  {
+    "id": 6,
+    "name":"thanh hoa",
+    "label":"Thanh Hóa, Việt Nam",
+    "description":"Thanh Hóa là thành phố tỉnh lỵ của tỉnh Thanh Hóa, Bắc Trung Bộ, Việt Nam. Đây là trung tâm hành chính, chính trị, kinh tế, văn hóa, khoa học kỹ thuật của tỉnh Thanh Hóa.",
+    "area": "3.359 km"
+  }
+]
